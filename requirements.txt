@@ -6,3 +6,4 @@ python-dotenv
 bs4
 mal-api
 AnilistPython
+gunicorn
