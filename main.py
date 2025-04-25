@@ -5,8 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
-os.environ['PYTHONOPTIMIZE'] = '1'
-
 TOKEN = os.environ.get("TOKEN")
 
 client = lightbulb.BotApp(
