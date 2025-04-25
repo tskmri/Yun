@@ -1,0 +1,8 @@
+hikari
+hikari-lightbulb
+pymongo
+requests
+python-dotenv
+bs4
+mal-api
+AnilistPython
